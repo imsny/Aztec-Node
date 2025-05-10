@@ -38,25 +38,6 @@ Aztec is building a decentralized, privacy-focused network and the sequencer nod
 > **IMPORTANT**  
 > If you’re using the free version and hit the max request limit on either RPC, upgrade or rotate the endpoints.
 
----
-
-🖥 Aztec Sequencer Node Imp Data
-
-➖ Ethereum Sepolia RPC :
-
-➖ Beacon Sepolia RPC :
-
-➖ Metamask Private Key : 0x
-
-➖ Metamask Public Address :
-
-➖ IP Address [ VPS ] or From PC :
-
-➖ Block Number :
-
-➖ Base64 encoded string :
-
-📌 Save this Data for Future Use
 
 ---
 
